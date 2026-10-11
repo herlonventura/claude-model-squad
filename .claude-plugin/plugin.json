@@ -1,0 +1,9 @@
+{
+  "name": "model-squad",
+  "version": "0.1.0",
+  "description": "Side panel that suggests the right Claude model (Haiku, Sonnet or Opus) for each task, with pixel-art characters, a 6-second choice and a one-off 'ask for help' from a stronger model.",
+  "author": { "name": "Herlon (VHE Engenharia)" },
+  "license": "MIT",
+  "keywords": ["model", "haiku", "sonnet", "opus", "panel", "mod", "cost"],
+  "types": "./types/index.d.ts"
+}
